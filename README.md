@@ -33,4 +33,4 @@ To create a production optimised build run the command below:
 
     npm run build
                                                         
-This created another folder in the root of your project named build. You'll have an option to start a local web server to view your newly created production build.
+This created another folder in the root of your project named "architectui-html-free". You'll have an option to start a local web server to view your newly created production build.
